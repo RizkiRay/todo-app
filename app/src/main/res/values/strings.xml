@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_add_task">Add Task\n</string>
+    <string name="action_add_task">Add Task</string>
+    <string name="action_save">Save</string>
+    <string name="hint_select_datetime"><![CDATA[Select Date & Time]]></string>
+    <string name="hint_input_title">Input title</string>
+    <string name="info_task_deleted">Task %1$s deleted successfully.</string>
+    <string name="info_task_updated">Task updated successfully.</string>
+    <string name="info_task_inserted">Task inserted successfully.</string>
+    <string name="notif_alarm_title">%1$s Reminder</string>
+    <string name="notif_alarm_message">Reminder to finish task %1$s in 10 minutes</string>
+    <string name="hint_search">Search task name\n</string>
+    <string name="text_no_data">No Data.</string>
+</resources>
